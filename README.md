@@ -15,7 +15,8 @@ The dashboard provides insights into environmental metrics such as carbon emissi
 
 ## Dashboard Preview
 
-![Dashboard Screenshot]("dashboard-screenshot.png")
+<img width="1648" height="898" alt="image" src="https://github.com/user-attachments/assets/a56506b2-9d78-4a9c-a63e-775f0c8a6003" />
+
 
 ---
 
