@@ -15,7 +15,7 @@ The dashboard provides insights into environmental metrics such as carbon emissi
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot]("D:\STUDY_TECH\PROJECT\Tableau_Project\Image\dashboard-screenshot.png")
 
 ---
 
