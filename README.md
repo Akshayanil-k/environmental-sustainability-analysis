@@ -1,53 +1,71 @@
-# environmental-sustainability-analysis
-## Environmental Impact Dashboard: Sustainability Analysis Using Tableau
+# Environmental Impact Dashboard : Sustainability Analysis Using Tableau
+
 Developed a comprehensive Environmental Impact Dashboard in Tableau to analyze key sustainability indicators, including carbon emissions, energy usage, water consumption, recycling rates, waste generation, air quality, and compliance performance. The dashboard enables data-driven environmental monitoring through interactive visualizations business-focused insights.
 
 
 # 🌍 Environmental Impact Dashboard
 
-> An interactive Tableau dashboard designed to analyze environmental sustainability metrics and transform raw data into actionable insights.
+## About the Project
 
-![Dashboard Preview](dashboard-screenshot.png)
+This project is an Environmental Impact Dashboard developed in Tableau to analyze sustainability-related data across different regions and industries.
 
----
-
-## 📖 Project Overview
-
-The **Environmental Impact Dashboard** is a Tableau-based analytics project that provides a comprehensive view of sustainability performance across different regions and industries.
-
-The dashboard enables users to monitor key environmental indicators, identify trends, compare performance, and support data-driven decision-making through interactive visualizations and KPI-driven insights.
+The dashboard provides insights into environmental metrics such as carbon emissions, energy usage, water consumption, recycling rates, waste generation, air quality, and compliance levels. The goal of this project is to make environmental data easier to understand through interactive visualizations and KPI tracking.
 
 ---
 
-## 🎯 Project Objectives
+## Dashboard Preview
 
-* Analyze environmental sustainability performance across regions and industries.
-* Monitor carbon emissions and identify high-impact areas.
-* Track recycling performance and sustainability initiatives.
+![Dashboard Screenshot](dashboard-screenshot.png)
+
+---
+
+## Project Objectives
+
+* Monitor environmental performance across regions.
+* Analyze carbon emission trends.
+* Track recycling performance by industry.
 * Understand energy and water consumption patterns.
-* Evaluate environmental compliance levels.
-* Provide interactive and user-friendly data exploration.
+* Compare sustainability metrics between regions.
+* Support data-driven environmental decision-making.
 
 ---
 
-## 📊 Dashboard Highlights
+## Dataset Information
 
-### 🔹 KPI Metrics
+The dataset contains environmental sustainability data with the following attributes:
 
-* 🌍 Total Carbon Emissions
-* ⚡ Total Energy Usage
-* 💧 Total Water Consumption
-* ♻️ Average Recycling Rate
+* Carbon Emissions (kg)
+* Energy Usage (kWh)
+* Water Consumption (Liters)
+* Waste Generated (kg)
+* Recycling Rate (%)
+* Air Quality Index (AQI)
+* Compliance Level
+* Region
+* Industry
+* Product Type
+* Category & Subcategory
 
-### 🔹 Interactive Visualizations
+---
 
-* 📊 Carbon Emissions by Region
-* 📈 Energy Usage Trend Analysis
-* ♻️ Recycling Performance Heatmap
-* 🌱 Carbon Emissions vs Recycling Rate Analysis
-* 🟢 Compliance Level Distribution
+## Dashboard Components
 
-### 🔹 Dynamic Filters
+### KPI Cards
+
+* Total Carbon Emissions
+* Total Energy Usage
+* Total Water Consumption
+* Average Recycling Rate
+
+### Visualizations
+
+* Carbon Emissions by Region
+* Energy Usage Trend Over Time
+* Recycling Performance Heatmap
+* Carbon Emissions vs Recycling Rate
+* Compliance Level Distribution
+
+### Filters
 
 * Region
 * Industry
@@ -57,119 +75,41 @@ The dashboard enables users to monitor key environmental indicators, identify tr
 
 ---
 
-## 📂 Dataset Information
+## Key Insights
 
-The project uses an **Environmental Sustainability Dataset** containing environmental performance indicators across multiple regions and industries.
-
-### Dataset Fields
-
-| Category               | Attributes                                                         |
-| ---------------------- | ------------------------------------------------------------------ |
-| Environmental Metrics  | Carbon Emissions, Energy Usage, Water Consumption, Waste Generated |
-| Sustainability Metrics | Recycling Rate, Compliance Level                                   |
-| Air Quality Metrics    | AQI (Air Quality Index)                                            |
-| Business Dimensions    | Region, Industry, Product Type, Category, Subcategory              |
-| Time Dimension         | Year                                                               |
-
----
-
-## 🛠️ Tools & Technologies
-
-| Tool                        | Purpose               |
-| --------------------------- | --------------------- |
-| Tableau Desktop             | Dashboard Development |
-| Microsoft Excel / CSV       | Data Source           |
-| Data Cleaning & Preparation | Data Transformation   |
-| Data Visualization          | Insight Generation    |
-
----
-
-## 🔍 Key Insights
-
-### 🌍 Regional Analysis
-
-* Carbon emissions vary significantly across regions.
-* Some regions contribute substantially more to environmental impact.
-
-### ⚡ Energy Consumption Trends
-
+* Carbon emissions vary across different regions.
 * Energy usage reached its highest level around 2022.
-* Later years show a decline in consumption patterns.
-
-### ♻️ Sustainability Performance
-
-* Recycling performance remains relatively stable across industries.
-* Higher recycling rates are associated with lower carbon emissions.
-
-### 🟢 Compliance Monitoring
-
-* Compliance levels are moderately distributed.
-* Opportunities exist to strengthen sustainability initiatives.
+* Recycling performance remains relatively consistent across industries.
+* Regions with higher recycling rates tend to show lower emissions.
+* Compliance levels are distributed fairly evenly.
 
 ---
 
-## 💡 Recommendations
+## Tools Used
 
-* Improve recycling programs in low-performing regions.
-* Focus on industries with higher environmental impact.
-* Encourage renewable energy adoption.
-* Reduce industrial waste generation.
-* Strengthen sustainability compliance practices.
-
----
-
-## 📈 Business Value
-
-This dashboard helps organizations:
-
-✅ Monitor environmental performance
-
-✅ Track sustainability goals
-
-✅ Identify environmental risks
-
-✅ Support data-driven decision-making
-
-✅ Improve sustainability awareness
-
-✅ Promote responsible resource management
+* Tableau Desktop
+* Microsoft Excel / CSV
+* Data Cleaning & Data Preparation
+* Data Visualization Techniques
 
 ---
 
-## 🏆 Project Features
+## What I Learned
 
-* Interactive Tableau Dashboard
-* Sustainability Analytics
-* KPI-Based Monitoring
-* Dynamic Filtering System
-* Trend Analysis & Performance Tracking
-* Professional Dashboard Design
-* Business-Oriented Insights
+Through this project, I improved my skills in:
 
----
-
-## 📸 Dashboard Screenshot
-
-Add your dashboard image inside the repository and update the file name below:
-
-<img width="1646" height="902" alt="image" src="https://github.com/user-attachments/assets/687a500a-3f83-4655-872e-734f77f72ec8" />
-
+* Tableau Dashboard Development
+* Data Visualization
+* KPI Design
+* Dashboard Formatting
+* Interactive Filters and Actions
+* Environmental Data Analysis
 
 ---
 
-## 🚀 Future Enhancements
+## Conclusion
 
-* Real-time sustainability monitoring
-* Predictive environmental analytics
-* Carbon footprint forecasting
-* Advanced KPI benchmarking
-* Interactive storytelling dashboards
-
----
-
-## ✅ Conclusion
-
-The Environmental Impact Dashboard demonstrates how Tableau can transform complex environmental data into meaningful visual insights. By combining sustainability metrics, interactive visualizations, and KPI-driven analysis, the dashboard supports environmental monitoring, performance evaluation, and informed decision-making.
+This dashboard helps transform environmental data into meaningful insights that can support sustainability initiatives and performance monitoring. It demonstrates how Tableau can be used to create interactive dashboards for environmental analysis and decision-making.
 
 ---
 
